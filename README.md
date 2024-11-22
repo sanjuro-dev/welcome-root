@@ -21,9 +21,9 @@ A vibrant animation that is played after rooting
  `Ctrl` + `Shift` + `O`, press `Enter` and then `Ctrl` + `Alt` + `X`
 
 
-## Dependencies:
+## Dependencies
 `pip install colorama keyboard`
 
 
-### Atention:
+### Atention
 This program is optimized for warp-terminal
