@@ -18,7 +18,7 @@ A vibrant animation that is played after rooting
 5. Add the following command:
 `python3 code.py`
 6. Save and Exit
- `Ctrl` + `Shift` + `O`, press `Enter` and then `Ctrl` + `Alt` + `X`
+ `Ctrl` + `Shift` + `O`, press `Enter` and then `Ctrl` + `Shift` + `X`
 
 
 ## Dependencies
