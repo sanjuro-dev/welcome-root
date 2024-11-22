@@ -17,10 +17,13 @@ A vibrant animation that is played after rooting
 
 5. Add the following command:
 `python3 code.py`
+6. Save and Exit
+ `Ctrl` + `Shift` + `O`, press `Enter` and then `Ctrl` + `Alt` + `X`
 
 
 ## Dependencies:
 `pip install colorama keyboard`
 
 
-### Atention: This program is optimized for warp-terminal
+### Atention:
+This program is optimized for warp-terminal
