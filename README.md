@@ -7,7 +7,7 @@ A vibrant animation that is played after rooting
 `cd welcome-root`
 
 2. Move it to root directory:
-`sudo mv code.py /root/`
+`sudo mv main.py /root/`
 
 3. Get root permissions:
 `sudo -i`
